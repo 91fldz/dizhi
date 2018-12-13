@@ -4,7 +4,7 @@ body{ padding:0; margin:0; font-family:"微软雅黑"; font-size:14px; line-heig
 h1,h2,h3,h4,h5,h6,p,ul,ol,li,from{margin:0; padding:0; list-style:none;}
 
 img{border:none;}
-hr{clear:both; border:none; border-bottom:1px #FF5970 solid; margin:0px 40px;}
+hr{clear:both; border:none; border-bottom:1px #14B7BF  solid; margin:0px 40px;}
 
 a:link,a:visited{ text-decoration:none; color:#fff;}
 a:hover{text-decoration:underline;}
