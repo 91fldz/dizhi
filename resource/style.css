@@ -12,9 +12,9 @@ a:hover{text-decoration:underline;}
 
 /* head */
 .head{border-top:20px #000 solid;}
-.logo{ height:107px; background:#192332 url(../images/logo.png) no-repeat center center;}
+.logo{ height:107px; background:#192332 url(./logo.png) no-repeat center center;}
 .permalink{min-height:40px; line-height:40px;}
-.permalink a{ background:url(../images/icon-hand.png) no-repeat left center; padding-left:25px; font-size:18px; color:#fff; text-decoration: underline;}
+.permalink a{ background:url(./icon-hand.png) no-repeat left center; padding-left:25px; font-size:18px; color:#fff; text-decoration: underline;}
 
 /* 主体区域 */
 .mainbox{background:#F7F7F7; padding:40px 0 25px 0;}
@@ -46,7 +46,7 @@ a:hover{text-decoration:underline;}
 
 @media (max-width:480px){ 
     .head{border-top:10px #333333 solid;}
-    .logo{ height:70px; background:#fbffe3 url(../images/logo.png) no-repeat center center;}
+    .logo{ height:70px; background:#fbffe3 url(./logo.png) no-repeat center center;}
   .permalink{min-height:30px; line-height:30px;}
   .permalink a{ display:inline-block; clear:both;}
   .mainbox{  padding:10px 5px 10px 5px;}
