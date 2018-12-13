@@ -48,7 +48,7 @@ a:hover{text-decoration:underline;}
 
 @media (max-width:480px){ 
     .head{border-top:10px #333333 solid;}
-    .logo{ height:70px; background:#fbffe3 url(./logo.png) no-repeat center center;}
+    .logo{ height:70px; background:#fff url(./logo.png) no-repeat center center;}
   .permalink{min-height:30px; line-height:30px;}
   .permalink a{ display:inline-block; clear:both;}
   .mainbox{  padding:10px 5px 10px 5px;}
