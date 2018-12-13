@@ -14,7 +14,7 @@ a:hover{text-decoration:underline;}
 .head{border-top:20px #000 solid;}
 .logo{ height:107px; background:#192332 url(./logo.png) no-repeat center center;}
 .permalink{min-height:40px; line-height:40px;}
-.permalink a{ background:url(./icon-hand.png) no-repeat left center; padding-left:25px; font-size:18px; color:#fff; text-decoration: underline;}
+.permalink a{ background:url(./icon-hand.png) no-repeat left center; padding-left:25px; font-size:18px; color:#fff; }
 
 /* 主体区域 */
 .mainbox{background:#F7F7F7; padding:40px 0 25px 0;}
