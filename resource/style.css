@@ -13,7 +13,7 @@ a:hover{text-decoration:underline;}
 /* head */
 .head{border-top:20px #333 solid;}
 .logo{ height:107px; background:#fff url(./logo.png) no-repeat center center;}
-.permalink{min-height:40px; line-height:30px;}
+.permalink{min-height:40px; line-height:40px;}
 .permalink a{ background:url(./icon-hand.png) no-repeat left center; padding-left:25px; font-size:18px; color:#fff; }
 
 /* 主体区域 */
