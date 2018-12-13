@@ -12,7 +12,7 @@ a:hover{text-decoration:underline;}
 
 /* head */
 .head{border-top:20px #000 solid;}
-.logo{ height:107px; background:#192332 url(./logo.png) no-repeat center center;}
+.logo{ height:107px; background:#fff url(./logo.png) no-repeat center center;}
 .permalink{min-height:40px; line-height:30px;}
 .permalink a{ background:url(./icon-hand.png) no-repeat left center; padding-left:25px; font-size:18px; color:#fff; }
 
@@ -33,7 +33,7 @@ a:hover{text-decoration:underline;}
 /* 页脚 */
 .statement{  background:#202D40;}
 .statement p{ min-height:100px; padding:10px; font-size:12px; line-height:20px;}
-.copyright{line-height:30px;background: #192332}
+.copyright{line-height:30px;}
 
 @media (max-width:768px){ 
   .permalink a{ display:inline-block; clear:both;}
