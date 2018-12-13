@@ -11,7 +11,7 @@ a:hover{text-decoration:underline;}
 .redtext{color:#fe0014;}
 
 /* head */
-.head{border-top:20px #000 solid;}
+.head{border-top:20px #333 solid;}
 .logo{ height:107px; background:#fff url(./logo.png) no-repeat center center;}
 .permalink{min-height:40px; line-height:30px;}
 .permalink a{ background:url(./icon-hand.png) no-repeat left center; padding-left:25px; font-size:18px; color:#fff; }
@@ -31,7 +31,7 @@ a:hover{text-decoration:underline;}
 .ad-banner img{width:100%; height:auto;}
 
 /* 页脚 */
-.statement{  background:#202D40;}
+.statement{  background:#333;}
 .statement p{ min-height:100px; padding:10px; font-size:12px; line-height:20px;}
 .copyright{line-height:30px;}
 
