@@ -17,8 +17,8 @@ a:hover{text-decoration:underline;}
 .permalink a{ background:url(./icon-hand.png) no-repeat left center; padding-left:25px; font-size:18px; color:#fff; }
 
 /* 主体区域 */
-.mainbox{background:#F7F7F7; padding:40px 0 25px 0;}
-.main{ max-width:960px; _width:960px; margin:0 auto; background:#ffffff;}
+.mainbox{background:#fff; padding:40px 0 25px 0;}
+.main{ max-width:960px; _width:960px; margin:0 auto; background:#f1f1f1;}
 .main-t{ max-width:960px; margin:0 auto; height:46px; line-height:46px; background:#14B7BF;}
 .weblist{padding:30px 40px;}
 .weblist ul {margin-left:-5%;}
