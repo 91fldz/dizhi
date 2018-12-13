@@ -19,10 +19,10 @@ a:hover{text-decoration:underline;}
 /* 主体区域 */
 .mainbox{background:#F7F7F7; padding:40px 0 25px 0;}
 .main{ max-width:960px; _width:960px; margin:0 auto; background:#ffffff;}
-.main-t{ max-width:960px; margin:0 auto; height:46px; line-height:46px; background:#FF5970;}
+.main-t{ max-width:960px; margin:0 auto; height:46px; line-height:46px; background:#14B7BF;}
 .weblist{padding:30px 40px;}
 .weblist ul {margin-left:-5%;}
-.weblist ul li{width:45%; _width:40%; line-height:45px; float:left; background:#FF5970; margin-bottom:18px; margin-left:5%; _margin-left:3%;}
+.weblist ul li{width:45%; _width:40%; line-height:45px; float:left; background:#14B7BF; margin-bottom:18px; margin-left:5%; _margin-left:3%;}
 .info{ clear:both; color:#333333; font-size:16px; padding:10px; margin:0 40px;}
 
 /* 广告区域 */
