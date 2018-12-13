@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-body{ padding:0; margin:0; font-family:"微软雅黑"; font-size:14px; line-height:170%; color:#fff; text-align:center; background:#14B7BF;}
+body{ padding:0; margin:0; font-family:Microsoft YaHei; font-size:14px; line-height:170%; color:#fff; text-align:center; }
 h1,h2,h3,h4,h5,h6,p,ul,ol,li,from{margin:0; padding:0; list-style:none;}
 
 img{border:none;}
@@ -13,10 +13,10 @@ a:hover{text-decoration:underline;}
 /* head */
 .head{border-top:20px #333 solid;}
 .logo{ height:107px; background:#fff url(./logo.png) no-repeat center center;}
-.permalink{min-height:40px; line-height:40px;}
+.permalink{line-height:35px;background-color: #14B7BF; padding: 10px 0;font-size: 18px;}
 .permalink a{ background:url(./icon-hand.png) no-repeat left center; padding-left:25px; font-size:18px; color:#fff; }
 
-/* 主体区域 */
+/* Ö÷ÌåÇøÓò */
 .mainbox{background:#fff; padding:40px 0 25px 0;}
 .main{ max-width:960px; _width:960px; margin:0 auto; background:#f1f1f1;}
 .main-t{ max-width:960px; margin:0 auto; height:46px; line-height:46px; background:#14B7BF;}
@@ -25,15 +25,17 @@ a:hover{text-decoration:underline;}
 .weblist ul li{width:45%; _width:40%; line-height:45px; float:left; background:#14B7BF; margin-bottom:18px; margin-left:5%; _margin-left:3%;}
 .info{ clear:both; color:#333333; font-size:16px; padding:10px; margin:0 40px;}
 
-/* 广告区域 */
+/* ¹ã¸æÇøÓò */
 .ad-main{ width:100%; margin:0 auto; padding:0 0 20px 0;  background:#fbffe3;}
 .ad-banner{max-width:960px; _width:960px; margin:0 auto;}
 .ad-banner img{width:100%; height:auto;}
 
-/* 页脚 */
+/* Ò³½Å */
 .statement{  background:#333;}
 .statement p{ min-height:100px; padding:10px; font-size:12px; line-height:20px;}
-.copyright{line-height:30px;}
+.copyright{line-height:30px;background-color:#14B7BF;}
+
+
 
 @media (max-width:768px){ 
   .permalink a{ display:inline-block; clear:both;}
