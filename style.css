@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     background: #E6EAEB;
-    font-family: Arial, 'Microsoft YaHei', '宋体', sans-serif
+    font-family: Arial, Microsoft YaHei, '宋体', sans-serif
 }
 
 a {
@@ -111,4 +111,23 @@ a {
     color: #7A7A7A;
     font-size: 22px;
     line-height: 18px
+}
+
+@media (max-width: 767px) {
+    .alert-box{
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .alert-btn{
+        margin: auto;
+    }
+    .alert-circle{
+        left: 50%;
+        margin-left: -117px;
+    }
+    .alert-sec-text{
+        left: 50%;
+        margin-left: -38px;
+    }
 }
